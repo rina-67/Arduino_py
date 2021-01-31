@@ -1,0 +1,11 @@
+body{
+    color: dimgray;
+}
+
+label[for=r0] {
+    color:skyblue;
+}
+
+label[for=r1] {
+    color:pink;
+}
